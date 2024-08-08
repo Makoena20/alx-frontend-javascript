@@ -12,3 +12,13 @@
   "dependencies": {}
 }
 
+
+{
+  "name": "alx-frontend-javascript",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "node 2-main.js"
+  },
+
+
