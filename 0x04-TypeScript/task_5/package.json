@@ -1,0 +1,20 @@
+{
+  "name": "task_5",
+  "version": "1.0.0",
+  "description": "TypeScript Task 5",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "jest"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "^4.5.4",
+    "webpack": "^5.64.0",
+    "webpack-cli": "^4.9.2",
+    "jest": "^24.9.0",
+    "@types/jest": "^24.0.23",
+    "@types/node": "^16.11.7"
+  }
+}
+
